@@ -1,16 +1,21 @@
 * {
     font-family: Verdana, sans-serif;
     text-align: center;
-}
-h1,{
     color: white;
+    
+}
+h1,{    
     font-size: 50px;
-    font-weight: normal
+    font-weight: normal 
 }
 h2, {
-    color: white;
     font-size: 42px;
     font-weight: 300;
 }
-
+video, {
+    object-fit: contain;
+}
+p, {
+    color: gray
+    font-size: 21px;
 }
