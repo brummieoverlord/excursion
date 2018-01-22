@@ -1,21 +1,25 @@
 * {
     font-family: Verdana, sans-serif;
     text-align: center;
+    }
+h1.discover {    
     color: white;
-    
-}
-h1,{    
     font-size: 50px;
-    font-weight: normal 
+    font-weight: normal; 
 }
-h2, {
+h2.personal {
+    color: white;
     font-size: 42px;
     font-weight: 300;
 }
 video, {
     object-fit: contain;
 }
-p, {
-    color: gray
+p.excursion {
+    color: gray;
     font-size: 21px;
+}
+p.button {
+    color: aquamarine;
+    font-size; 16px
 }
