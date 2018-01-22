@@ -1,5 +1,6 @@
 * {
     font-family: Verdana, sans-serif;
+    padding: 50;
     text-align: center;
     }
 h1.discover {    
@@ -10,11 +11,13 @@ h1.discover {
 h2.personal {
     color: white;
     font-size: 42px;
-    font-weight: 300;
+    font-weight: 300px;
 }
-video, {
+.video {
     object-fit: contain;
+    margin: 0 auto;
 }
+
 p.excursion {
     color: gray;
     font-size: 21px;
@@ -22,4 +25,8 @@ p.excursion {
 p.button {
     color: aquamarine;
     font-size; 16px
+}
+.footer {
+    color: gray;
+    text-align :right;
 }
